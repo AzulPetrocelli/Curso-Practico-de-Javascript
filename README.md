@@ -1,8 +1,8 @@
 # Platzi-curso-practico-de-Javascript
 
-## Taller #1: Figuras geometricas
+## Taller #2: Porcentajes y descuentos
 
--Primer paso: definir las formas
+-Primer paso: definir las formulas
 -Segundo paso: Implementar las formulas en Javascript
 -Tercer paso: Crear funciones
 -Cuarto paso: integrar js con html
