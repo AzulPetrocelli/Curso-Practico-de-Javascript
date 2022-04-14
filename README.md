@@ -1,6 +1,6 @@
 # Platzi-curso-practico-de-Javascript
 
-## Taller #2: Porcentajes y descuentos
+## Taller #3: Promedios mediana y moda
 
 -Primer paso: definir las formulas
 -Segundo paso: Implementar las formulas en Javascript
